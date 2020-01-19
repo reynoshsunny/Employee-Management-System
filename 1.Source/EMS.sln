@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS", "EMS\EMS.csproj", "{AA6F0092-5C1D-4983-AE79-C76B6643B230}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "EMSSETUP", "EMSSETUP\EMSSETUP.aiproj", "{55EF4FD9-A8DB-4422-A14E-4817BBDFCEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA6F0092-5C1D-4983-AE79-C76B6643B230}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6F0092-5C1D-4983-AE79-C76B6643B230}.All|Any CPU.Build.0 = Release|Any CPU
+		{AA6F0092-5C1D-4983-AE79-C76B6643B230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6F0092-5C1D-4983-AE79-C76B6643B230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6F0092-5C1D-4983-AE79-C76B6643B230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6F0092-5C1D-4983-AE79-C76B6643B230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EF4FD9-A8DB-4422-A14E-4817BBDFCEAD}.All|Any CPU.ActiveCfg = DefaultBuild
+		{55EF4FD9-A8DB-4422-A14E-4817BBDFCEAD}.All|Any CPU.Build.0 = DefaultBuild
+		{55EF4FD9-A8DB-4422-A14E-4817BBDFCEAD}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{55EF4FD9-A8DB-4422-A14E-4817BBDFCEAD}.Debug|Any CPU.Build.0 = DefaultBuild
+		{55EF4FD9-A8DB-4422-A14E-4817BBDFCEAD}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{55EF4FD9-A8DB-4422-A14E-4817BBDFCEAD}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
